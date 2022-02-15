@@ -1,5 +1,5 @@
 
-Link do curso [PythonPro] [https://www.python.pro.br]
+Link do curso [Python Pro] [https://www.python.pro.br]
 
 [![Build Status](https://app.travis-ci.com/Jullianag/libpythonpro.svg?branch=main)](https://app.travis-ci.com/Jullianag/libpythonpro)
 
