@@ -1,3 +1,8 @@
+
+Link do curso [PythonPro] [https://www.python.pro.br]
+
+[![Build Status](https://app.travis-ci.com/Jullianag/libpythonpro.svg?branch=main)](https://app.travis-ci.com/Jullianag/libpythonpro)
+
 para instalar:
 ```console
 python3 -m venv .venv
